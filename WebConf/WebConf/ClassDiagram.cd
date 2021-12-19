@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JsonConversionExtensions" Collapsed="true">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\extention\JsonExtentions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessageGUIState" Collapsed="true">
+    <Position X="19.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAA=</HashCode>
+      <FileName>screens\RoomPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.AckResponsePacket" Collapsed="true">
+    <Position X="21.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\AckResponsePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.AuthPacket" Collapsed="true">
+    <Position X="21.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABCAAAAAAAAAEAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\AuthPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.AuthResponsePacket" Collapsed="true">
+    <Position X="21.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQQ=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\AuthResponsePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.GetMessagesPacket" Collapsed="true">
+    <Position X="21.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAEAAAAAAAQAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\GetMessagesPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.GetRoomPacket" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAI=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\GetRoomPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.GetRoomsPacket" Collapsed="true">
+    <Position X="21.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\GetRoomsPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.Message" Collapsed="true">
+    <Position X="16.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAJAAAAAABAAAAIQAABAAAABIAAAAAQAEAgI=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.MessageListPacket" Collapsed="true">
+    <Position X="21.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\MessageListPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.NewMessagePacket" Collapsed="true">
+    <Position X="21.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\NewMessagePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.Packet" Collapsed="true">
+    <Position X="23.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAIAAEAQAAAAAAQAAASAIAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\Packet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.Room" Collapsed="true">
+    <Position X="16.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAABAAAAAAAAAAAAAAABAEAABAIAAAAAAAAgA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.RoomPacket" Collapsed="true">
+    <Position X="21.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\RoomPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.SendMessagePacket" Collapsed="true">
+    <Position X="21.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\SendMessagePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.User" Collapsed="true">
+    <Position X="16.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.field.fDateTime" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAIAAAABAAACAAQgAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\fDateTime.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.58" />
+  </Class>
+  <Class Name="common.field.fInt32" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAABAAAAAAAAAAIAAAABAAACAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\fInt32.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.174" />
+  </Class>
+  <Class Name="common.field.fList&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAABAAAAAAAAAAIAAAABAAACAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\fList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="common.field.fObj" Collapsed="true">
+    <Position X="19.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAIAAAABAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\fObj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="common.field.fStr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAABAAAAAAAAAAIAAAABAAACAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\fStr.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NetworkCommon.packet.RoomsListPacket" Collapsed="true">
+    <Position X="21.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\RoomsListPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.App" Collapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABAAgAAAAQAAAAgIAAAAACAAAAgAIAAkQAAAEAIA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebConf.network.packet.PacketManager" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>network\PacketManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.Properties.Resources" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.screens.AuthPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>screens\AuthPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebConf.screens.LoadingPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>screens\LoadingPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebConf.screens.RoomPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAEAICACAAAIAAAAAAAAAAI=</HashCode>
+      <FileName>screens\RoomPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WebConf.screens.RoomSelectionPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>screens\RoomSelectionPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NetworkCommon.extention.Util" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\extention\Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.CreateRoomPacket" Collapsed="true">
+    <Position X="21.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAI=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\CreateRoomPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common.RegisterPacket" Collapsed="true">
+    <Position X="21.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABCAAAAAAAAAEAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\RegisterPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkCommon.packet.MessageReceivedPacket" Collapsed="true">
+    <Position X="21.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\MessageReceivedPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkCommon.packet.RoomCreatedPacket" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\RoomCreated.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.WebConferenceModel" Collapsed="true">
+    <Position X="26" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAACAAAAAAAAACCSACAAiAABEBgAACAAAAABkAA=</HashCode>
+      <FileName>WebConferenceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebConf.screens.LoginPage" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>screens\LoginPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="common.field.SerializableField" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\NetworkCommon\packet\field\SerializableField.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

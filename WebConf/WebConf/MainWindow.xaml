@@ -1,0 +1,20 @@
+﻿<Window x:Class="WebConf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebConf"
+        mc:Ignorable="d"
+        Title="My Web Conference" Height="552.332" Width="1030.904">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="149*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="153*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="WelcomeText" Content="" HorizontalAlignment="Left" Height="32" Margin="0,10,0,0" VerticalAlignment="Top" Width="291" RenderTransformOrigin="1.41,-3.572" Grid.Column="3" FontSize="16"/>
+        <Frame x:Name="___MainFrame" Content="Frame" HorizontalAlignment="Center" Height="464" Margin="10,47,10,10" VerticalAlignment="Center" Width="1003" Grid.ColumnSpan="4" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button Click="onLogOut" x:Name="LogOutBtn" Content="Log Out" Grid.Column="3" HorizontalAlignment="Left" Margin="311,10,0,0" VerticalAlignment="Top" Width="120" Height="32" Background="#FF715BFF" Foreground="White" BorderBrush="{x:Null}" FontFamily="Candara" FontSize="18" Visibility="Hidden"/>
+    </Grid>
+</Window>

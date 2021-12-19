@@ -1,0 +1,7 @@
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\bin\Debug\test.exe.config
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\bin\Debug\test.exe
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\bin\Debug\test.pdb
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\obj\Debug\test.exe
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\test\obj\Debug\test.pdb

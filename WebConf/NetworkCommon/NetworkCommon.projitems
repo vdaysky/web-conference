@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>2c92e9f9-0c30-4f76-b8df-36f5e280b5cb</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>NetworkCommon</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)extention\JsonExtentions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)extention\Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\AckResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\AuthPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\AuthResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\CreateRoomPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\fDateTime.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\fInt32.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\fList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\fObj.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\fStr.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\field\SerializableField.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\GetMessagesPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\GetRoomPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\GetRoomsPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\Message.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\MessageListPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\MessageReceivedPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\NewMessagePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\Packet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\RegisterPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\Room.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\RoomCreated.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\RoomPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\RoomsListPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\SendMessagePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)packet\User.cs" />
+  </ItemGroup>
+</Project>

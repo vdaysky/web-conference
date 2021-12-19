@@ -1,0 +1,12 @@
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\WebConfServer.exe
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\Newtonsoft.Json.dll
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\Database1.mdf
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\Database1_log.ldf
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\WebConfServer.exe.config
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\Newtonsoft.Json.xml
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\obj\Debug\WebConfServer.csprojAssemblyReference.cache
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\obj\Debug\WebConfServer.csproj.CoreCompileInputs.cache
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\obj\Debug\WebConfServer.csproj.CopyComplete
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\obj\Debug\WebConfServer.exe
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\obj\Debug\WebConfServer.pdb
+D:\myFignya\tipa-4toto-umnoe\kursovaya\WebConf\WebConfServer\bin\Debug\WebConfServer.pdb
